@@ -4,7 +4,7 @@ Alguns conceitos aplicados:
 - imput/print
 - listas
 - dicionários
-- comando split para contsgem de palavras
+- comando split para contagem de palavras
 - try/exept
 - range
 - classes
