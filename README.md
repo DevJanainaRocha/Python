@@ -1,1 +1,1 @@
-Repositório destinado a apresentar os códigos que foram desenvolvidos durante meu aprendizado na linguagem Python
+Repositório de atividades realizadas durante o processo de aprensizagem da linguagem Python.
