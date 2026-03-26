@@ -1,15 +1,9 @@
-Alguns conceitos aplicados:
-- funções
-- if/elif/else
-- imput/print
-- listas
-- dicionários
-- comando split para contagem de palavras
-- try/exept
-- range
-- classes
-- instâncias
-- métodos costrutores
-  
+Conceitos aplicados:
+- Classes
+- importação de classes
+- property
+- classmethod
+- método str
+- método construtor
 - 
-
+  
